@@ -1,0 +1,17 @@
+@media screen and (max-width: 980px) {
+  .main {
+    max-width: 100%;
+  }
+  .container {
+    padding: 0 15px;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+  }
+}
